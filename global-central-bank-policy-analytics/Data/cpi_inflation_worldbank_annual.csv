@@ -1,0 +1,238 @@
+year,country_code,country_name,cpi_annual_pct
+2018,AR,Argentina,34.277
+2019,AR,Argentina,53.548
+2020,AR,Argentina,42.015
+2021,AR,Argentina,48.409
+2022,AR,Argentina,72.431
+2023,AR,Argentina,133.489
+2024,AR,Argentina,219.884
+2015,AU,Australia,1.508
+2016,AU,Australia,1.277
+2017,AU,Australia,1.949
+2018,AU,Australia,1.911
+2019,AU,Australia,1.611
+2020,AU,Australia,0.847
+2021,AU,Australia,2.864
+2022,AU,Australia,6.594
+2023,AU,Australia,5.597
+2024,AU,Australia,3.167
+2015,BR,Brazil,9.03
+2016,BR,Brazil,8.739
+2017,BR,Brazil,3.446
+2018,BR,Brazil,3.665
+2019,BR,Brazil,3.733
+2020,BR,Brazil,3.212
+2021,BR,Brazil,8.302
+2022,BR,Brazil,9.28
+2023,BR,Brazil,4.594
+2024,BR,Brazil,4.367
+2015,CA,Canada,1.125
+2016,CA,Canada,1.429
+2017,CA,Canada,1.597
+2018,CA,Canada,2.268
+2019,CA,Canada,1.949
+2020,CA,Canada,0.717
+2021,CA,Canada,3.395
+2022,CA,Canada,6.803
+2023,CA,Canada,3.879
+2024,CA,Canada,2.382
+2015,CH,Switzerland,-1.144
+2016,CH,Switzerland,-0.435
+2017,CH,Switzerland,0.534
+2018,CH,Switzerland,0.936
+2019,CH,Switzerland,0.363
+2020,CH,Switzerland,-0.726
+2021,CH,Switzerland,0.582
+2022,CH,Switzerland,2.835
+2023,CH,Switzerland,2.135
+2024,CH,Switzerland,1.062
+2015,CN,China,1.437
+2016,CN,China,2.0
+2017,CN,China,1.593
+2018,CN,China,2.075
+2019,CN,China,2.899
+2020,CN,China,2.419
+2021,CN,China,0.981
+2022,CN,China,1.974
+2023,CN,China,0.235
+2024,CN,China,0.218
+2015,CZ,Czechia,0.309
+2016,CZ,Czechia,0.684
+2017,CZ,Czechia,2.451
+2018,CZ,Czechia,2.149
+2019,CZ,Czechia,2.848
+2020,CZ,Czechia,3.161
+2021,CZ,Czechia,3.84
+2022,CZ,Czechia,15.1
+2023,CZ,Czechia,10.661
+2024,CZ,Czechia,2.435
+2015,EG,"Egypt, Arab Rep.",10.37
+2016,EG,"Egypt, Arab Rep.",13.814
+2017,EG,"Egypt, Arab Rep.",29.507
+2018,EG,"Egypt, Arab Rep.",14.401
+2019,EG,"Egypt, Arab Rep.",9.153
+2020,EG,"Egypt, Arab Rep.",5.045
+2021,EG,"Egypt, Arab Rep.",5.214
+2022,EG,"Egypt, Arab Rep.",13.896
+2023,EG,"Egypt, Arab Rep.",33.885
+2024,EG,"Egypt, Arab Rep.",28.271
+2015,GB,United Kingdom,0.368
+2016,GB,United Kingdom,1.008
+2017,GB,United Kingdom,2.558
+2018,GB,United Kingdom,2.293
+2019,GB,United Kingdom,1.738
+2020,GB,United Kingdom,0.989
+2021,GB,United Kingdom,2.518
+2022,GB,United Kingdom,7.922
+2023,GB,United Kingdom,6.794
+2024,GB,United Kingdom,3.272
+2015,HU,Hungary,-0.062
+2016,HU,Hungary,0.395
+2017,HU,Hungary,2.348
+2018,HU,Hungary,2.85
+2019,HU,Hungary,3.339
+2020,HU,Hungary,3.327
+2021,HU,Hungary,5.111
+2022,HU,Hungary,14.608
+2023,HU,Hungary,17.125
+2024,HU,Hungary,3.704
+2015,ID,Indonesia,6.363
+2016,ID,Indonesia,3.526
+2017,ID,Indonesia,3.809
+2018,ID,Indonesia,3.198
+2019,ID,Indonesia,3.031
+2020,ID,Indonesia,1.92
+2021,ID,Indonesia,1.56
+2022,ID,Indonesia,4.209
+2023,ID,Indonesia,3.669
+2024,ID,Indonesia,2.182
+2015,IN,India,4.907
+2016,IN,India,4.948
+2017,IN,India,3.328
+2018,IN,India,3.939
+2019,IN,India,3.73
+2020,IN,India,6.623
+2021,IN,India,5.131
+2022,IN,India,6.699
+2023,IN,India,5.649
+2024,IN,India,4.953
+2015,JP,Japan,0.795
+2016,JP,Japan,-0.127
+2017,JP,Japan,0.484
+2018,JP,Japan,0.989
+2019,JP,Japan,0.469
+2020,JP,Japan,-0.025
+2021,JP,Japan,-0.233
+2022,JP,Japan,2.498
+2023,JP,Japan,3.268
+2024,JP,Japan,2.739
+2015,KR,"Korea, Rep.",0.706
+2016,KR,"Korea, Rep.",0.972
+2017,KR,"Korea, Rep.",1.944
+2018,KR,"Korea, Rep.",1.476
+2019,KR,"Korea, Rep.",0.383
+2020,KR,"Korea, Rep.",0.537
+2021,KR,"Korea, Rep.",2.498
+2022,KR,"Korea, Rep.",5.09
+2023,KR,"Korea, Rep.",3.597
+2024,KR,"Korea, Rep.",2.322
+2015,MX,Mexico,2.721
+2016,MX,Mexico,2.822
+2017,MX,Mexico,6.041
+2018,MX,Mexico,4.899
+2019,MX,Mexico,3.636
+2020,MX,Mexico,3.397
+2021,MX,Mexico,5.689
+2022,MX,Mexico,7.896
+2023,MX,Mexico,5.528
+2024,MX,Mexico,4.722
+2015,NG,Nigeria,9.009
+2016,NG,Nigeria,15.697
+2017,NG,Nigeria,16.502
+2018,NG,Nigeria,12.095
+2019,NG,Nigeria,11.396
+2020,NG,Nigeria,13.246
+2021,NG,Nigeria,16.953
+2022,NG,Nigeria,18.847
+2023,NG,Nigeria,24.66
+2024,NG,Nigeria,33.242
+2015,NO,Norway,2.171
+2016,NO,Norway,3.55
+2017,NO,Norway,1.875
+2018,NO,Norway,2.765
+2019,NO,Norway,2.168
+2020,NO,Norway,1.287
+2021,NO,Norway,3.484
+2022,NO,Norway,5.764
+2023,NO,Norway,5.518
+2024,NO,Norway,3.145
+2015,PK,Pakistan,2.529
+2016,PK,Pakistan,3.765
+2017,PK,Pakistan,4.085
+2018,PK,Pakistan,5.078
+2019,PK,Pakistan,10.578
+2020,PK,Pakistan,9.74
+2021,PK,Pakistan,9.496
+2022,PK,Pakistan,19.874
+2023,PK,Pakistan,30.768
+2024,PK,Pakistan,12.633
+2015,PL,Poland,-0.874
+2016,PL,Poland,-0.665
+2017,PL,Poland,2.076
+2018,PL,Poland,1.813
+2019,PL,Poland,2.227
+2020,PL,Poland,3.374
+2021,PL,Poland,5.055
+2022,PL,Poland,14.429
+2023,PL,Poland,11.529
+2024,PL,Poland,3.791
+2015,SE,Sweden,-0.047
+2016,SE,Sweden,0.984
+2017,SE,Sweden,1.794
+2018,SE,Sweden,1.954
+2019,SE,Sweden,1.784
+2020,SE,Sweden,0.497
+2021,SE,Sweden,2.163
+2022,SE,Sweden,8.369
+2023,SE,Sweden,8.549
+2024,SE,Sweden,2.836
+2015,SG,Singapore,-0.522
+2016,SG,Singapore,-0.53
+2017,SG,Singapore,0.577
+2018,SG,Singapore,0.439
+2019,SG,Singapore,0.568
+2020,SG,Singapore,-0.172
+2021,SG,Singapore,2.316
+2022,SG,Singapore,6.131
+2023,SG,Singapore,4.834
+2024,SG,Singapore,2.39
+2015,TR,Turkiye,7.671
+2016,TR,Turkiye,7.775
+2017,TR,Turkiye,11.144
+2018,TR,Turkiye,16.332
+2019,TR,Turkiye,15.177
+2020,TR,Turkiye,12.279
+2021,TR,Turkiye,19.596
+2022,TR,Turkiye,72.309
+2023,TR,Turkiye,53.859
+2024,TR,Turkiye,58.506
+2015,US,United States,0.119
+2016,US,United States,1.262
+2017,US,United States,2.13
+2018,US,United States,2.443
+2019,US,United States,1.812
+2020,US,United States,1.234
+2021,US,United States,4.698
+2022,US,United States,8.003
+2023,US,United States,4.116
+2024,US,United States,2.95
+2015,ZA,South Africa,4.519
+2016,ZA,South Africa,6.603
+2017,ZA,South Africa,5.186
+2018,ZA,South Africa,4.51
+2019,ZA,South Africa,4.103
+2020,ZA,South Africa,3.232
+2021,ZA,South Africa,4.619
+2022,ZA,South Africa,7.04
+2023,ZA,South Africa,6.075
+2024,ZA,South Africa,4.361
