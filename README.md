@@ -156,3 +156,24 @@ global-central-bank-policy-analytics/
 │   ├── page1_policy_dashboard.png
 │   ├── page2_sentiment_dashboard.png
 │   └── star_schema_data_model.png
+
+Skills Demonstrated
+
+This project demonstrates:
+
+Data cleaning
+SQL transformation
+Power Query ETL
+DAX measure development
+KPI design
+Data modeling
+Dashboard storytelling
+Business analytics
+Data validation
+Analytical problem solving
+
+
+Author
+Nikunj Gadwe
+LinkedIn: https://www.linkedin.com/in/nikunj-gadwe-501793237/
+GitHub: https://github.com/nikunjgadwe958-dot
